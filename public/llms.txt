@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Dive into Dark Genesis, where two player games meet apocalyptic storytelling. Experience intense cooperative gameplay in a moody, immersive world. Start your genesis now.
+
+### Gameplay
+https://example.com/gameplay
+Discover revolutionary gameplay mechanics built for teamwork. Dark Genesis delivers thrilling games to play with strategic combat, skill trees, and immersive challenges.
+
+### World
+https://example.com/world
+Journey through a haunting genesis world filled with dramatic lore, mysterious factions, and breathtaking environments. Uncover secrets in every shadow you explore.
+
+### Contact
+https://example.com/contact
+Connect with Dark Genesis developers and fellow players. Get support, share feedback, or join our community for exclusive updates on new 2 player games content.
+
+### Products
+https://example.com/products
+Our Products - Dark Genesis
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Dark Genesis
+
+### Category
+https://example.com/category/:slug
+Products - Dark Genesis
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
